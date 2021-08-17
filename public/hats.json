@@ -1,0 +1,102 @@
+{
+	"none": {
+		"displayName": "None"
+	},
+
+	"batagrande": {
+		"displayName": "Bata",
+		"resourceName": "cuerpogeneralbata.glb",
+		"scale": {
+			"x": 0.148,
+			"y": 0.1335,
+			"z": 0.148
+		},
+		"rotation": {
+			"x": 0,
+			"y": 90,
+			"z": -4
+		},
+		"position": {
+			"x": 0,
+			"y": 0.182,
+			"z": -0.018
+		}
+	},
+	"polo": {
+		"displayName": "Polo",
+		"resourceName": "cuerpogeneralpolo.glb",
+		"scale": {
+			"x": 0.148,
+			"y": 0.1335,
+			"z": 0.148
+		},
+		"rotation": {
+			"x": 0,
+			"y": 90,
+			"z": -4
+		},
+		"position": {
+			"x": 0,
+			"y": 0.182,
+			"z": -0.018
+		}
+	},
+	"chamarragrande": {
+		"displayName": "Chamarra",
+		"resourceName": "cuerpogeneralchamarra.glb",
+		"scale": {
+			"x": 0.148,
+			"y": 0.1335,
+			"z": 0.148
+		},
+		"rotation": {
+			"x": 0,
+			"y": 90,
+			"z": -4
+		},
+		"position": {
+			"x": 0,
+			"y": 0.182,
+			"z": -0.018
+		}
+	},
+	"astronauta": {
+		"displayName": "Astronauta",
+		"resourceName": "cascoAstronauta.glb",
+		"scale": {
+			"x": 0.3,
+			"y": 0.3,
+			"z": 0.3
+		},
+		"rotation": {
+			"x": 0,
+			"y": 90,
+			"z": 0
+		},
+		"position": {
+			"x": 0,
+			"y": 0.7,
+			"z": -0.05
+		}
+	},
+	"cuerpoastronauta": {
+		"displayName": "Traje Astronauta",
+		"resourceName": "TrajeAstronauta.glb",
+		"scale": {
+			"x": 0.2,
+			"y": 0.2,
+			"z": 0.2
+		},
+		"rotation": {
+			"x": 0,
+			"y": 90,
+			"z": -4
+		},
+		"position": {
+			"x": 0,
+			"y": 0.182,
+			"z": -0.018
+		}
+	}
+
+}
